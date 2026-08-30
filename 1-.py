@@ -23,7 +23,7 @@ import pandas as pd
 AUTHORIZED_USERS = {
     "Deepak": "hitman_dr",
     "Ruba": "donruba_67",
-    "SK": "sk1234",
+    "User_3": "sk1234",
     "User_4": "pass1234",
 }
 
